@@ -2,9 +2,7 @@
 
 > A world-class, premium, recruiter-focused personal portfolio website built with Next.js 15, TypeScript, Tailwind CSS, Framer Motion, Prisma ORM, and Vercel Postgres.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/portfolio)
-
----
+https://portfolio-psi-one-ah2m7j6091.vercel.app/resume
 
 ## ✨ Features
 
